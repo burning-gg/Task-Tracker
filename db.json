@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "New Task",
+      "day": "13.07.2021 12:21",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Last Task",
+      "day": "18.07.2021 19:00",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
